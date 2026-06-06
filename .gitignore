@@ -1,0 +1,12 @@
+*.pt
+*.txt
+*.pyc
+*.json.gz
+*.pth
+*.csv
+*.parquet
+*.jsonl
+*.png
+*.pdf
+.vscode
+llama-3b.py
