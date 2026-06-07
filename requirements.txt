@@ -1,0 +1,10 @@
+torch
+tqdm
+pytz
+numpy
+accelerate
+bitsandbytes
+transformers
+sentence-transformers
+peft
+datasets

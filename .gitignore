@@ -1,5 +1,6 @@
 *.pt
 *.txt
+!requirements*.txt
 *.pyc
 *.json.gz
 *.pth
@@ -9,4 +10,3 @@
 *.png
 *.pdf
 .vscode
-llama-3b.py
