@@ -2,7 +2,7 @@
 
 > **Cluster-Aware Recommendation with Large Language Models for Efficient and Scalable Inference**
 
-This repository contains the source code and experimental scripts for the paper *"Cluster-Aware Recommendation with Large Language Models for Efficient and Scalable Inference"*.
+This repository contains the source code and experimental scripts for the paper *"ClusterRec: Cluster-Aware Recommendation with Large Language Models for Efficient and Scalable Inference"*.
 
 ## Requirements
 
